@@ -3,7 +3,7 @@
 A guest support chatbot that answers hotel questions 24/7 in **English, German and Turkish**,
 shows the source for every answer, and forwards the guest to reception instead of guessing.
 
-**Live demo:** DEMO_URL &nbsp;·&nbsp; *Any Hotel is fictional; this is a portfolio demo.*
+**Live demo:** [any-hotel-assistant.streamlit.app](https://any-hotel-assistant.streamlit.app/) &nbsp;·&nbsp; *Any Hotel is fictional; this is a portfolio demo.*
 
 ![Demo: an answer with its source, a German question, and a refusal](docs/demo.gif)
 
