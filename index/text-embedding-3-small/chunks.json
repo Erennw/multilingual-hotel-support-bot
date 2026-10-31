@@ -1,0 +1,510 @@
+{
+  "embedding_model": "text-embedding-3-small",
+  "dimension": 1536,
+  "chunks": [
+    {
+      "article": "1.1",
+      "section_number": "1",
+      "section_title": "General Information and Location",
+      "text": "Any Hotel is a family beach resort in Alanya, Antalya, Türkiye, with 250 rooms.",
+      "embed_text": "General Information and Location: Any Hotel is a family beach resort in Alanya, Antalya, Türkiye, with 250 rooms."
+    },
+    {
+      "article": "1.2",
+      "section_number": "1",
+      "section_title": "General Information and Location",
+      "text": "The hotel has its own sandy beach, 50 metres from the main building. Sunbeds and umbrellas on the beach are free for hotel guests.",
+      "embed_text": "General Information and Location: The hotel has its own sandy beach, 50 metres from the main building. Sunbeds and umbrellas on the beach are free for hotel guests."
+    },
+    {
+      "article": "1.3",
+      "section_number": "1",
+      "section_title": "General Information and Location",
+      "text": "Alanya town centre is about 6 km away. A public bus stops in front of the hotel every 30 minutes between 07:00 and 23:00.",
+      "embed_text": "General Information and Location: Alanya town centre is about 6 km away. A public bus stops in front of the hotel every 30 minutes between 07:00 and 23:00."
+    },
+    {
+      "article": "1.4",
+      "section_number": "1",
+      "section_title": "General Information and Location",
+      "text": "The hotel is open all year. High season is 1 June to 30 September. Low season is every other date.",
+      "embed_text": "General Information and Location: The hotel is open all year. High season is 1 June to 30 September. Low season is every other date."
+    },
+    {
+      "article": "1.5",
+      "section_number": "1",
+      "section_title": "General Information and Location",
+      "text": "Free Wi-Fi is available in all rooms and public areas. Guests log in with their room number and surname.",
+      "embed_text": "General Information and Location: Free Wi-Fi is available in all rooms and public areas. Guests log in with their room number and surname."
+    },
+    {
+      "article": "1.6",
+      "section_number": "1",
+      "section_title": "General Information and Location",
+      "text": "The hotel works on an all-inclusive concept. Meals and local drinks in the main restaurant, the pool bar and the snack bar are included. Imported drinks and the à la carte restaurants are paid extra.",
+      "embed_text": "General Information and Location: The hotel works on an all-inclusive concept. Meals and local drinks in the main restaurant, the pool bar and the snack bar are included. Imported drinks and the à la carte restaurants are paid extra."
+    },
+    {
+      "article": "2.1",
+      "section_number": "2",
+      "section_title": "Room Types",
+      "text": "Standard Room (180 rooms): 28 m², one double bed or two single beds, garden view. Maximum 2 adults and 1 child.",
+      "embed_text": "Room Types: Standard Room (180 rooms): 28 m², one double bed or two single beds, garden view. Maximum 2 adults and 1 child."
+    },
+    {
+      "article": "2.2",
+      "section_number": "2",
+      "section_title": "Room Types",
+      "text": "Family Room (50 rooms): 40 m², two separate bedrooms with a connecting door, sea view. Maximum 2 adults and 2 children.",
+      "embed_text": "Room Types: Family Room (50 rooms): 40 m², two separate bedrooms with a connecting door, sea view. Maximum 2 adults and 2 children."
+    },
+    {
+      "article": "2.3",
+      "section_number": "2",
+      "section_title": "Room Types",
+      "text": "Family Suite (20 rooms): 60 m², two bedrooms and a living room with a sofa bed, sea view and a balcony. Maximum 3 adults and 2 children, or 2 adults and 3 children.",
+      "embed_text": "Room Types: Family Suite (20 rooms): 60 m², two bedrooms and a living room with a sofa bed, sea view and a balcony. Maximum 3 adults and 2 children, or 2 adults and 3 children."
+    },
+    {
+      "article": "2.4",
+      "section_number": "2",
+      "section_title": "Room Types",
+      "text": "All rooms have air conditioning, a mini fridge, a safe, a TV, a hairdryer and a kettle. The mini fridge is refilled every day with water and soft drinks at no charge.",
+      "embed_text": "Room Types: All rooms have air conditioning, a mini fridge, a safe, a TV, a hairdryer and a kettle. The mini fridge is refilled every day with water and soft drinks at no charge."
+    },
+    {
+      "article": "2.5",
+      "section_number": "2",
+      "section_title": "Room Types",
+      "text": "Baby cots are free of charge. They must be requested at least 3 days before arrival. Maximum one baby cot per room.",
+      "embed_text": "Room Types: Baby cots are free of charge. They must be requested at least 3 days before arrival. Maximum one baby cot per room."
+    },
+    {
+      "article": "2.6",
+      "section_number": "2",
+      "section_title": "Room Types",
+      "text": "Rooms are cleaned every day. Towels and bed linen are changed every 2 days, or earlier on request.",
+      "embed_text": "Room Types: Rooms are cleaned every day. Towels and bed linen are changed every 2 days, or earlier on request."
+    },
+    {
+      "article": "2.7",
+      "section_number": "2",
+      "section_title": "Room Types",
+      "text": "All rooms are non-smoking. Smoking inside a room is charged a cleaning fee of 100 EUR. Smoking is allowed only on balconies and in marked outdoor areas.",
+      "embed_text": "Room Types: All rooms are non-smoking. Smoking inside a room is charged a cleaning fee of 100 EUR. Smoking is allowed only on balconies and in marked outdoor areas."
+    },
+    {
+      "article": "3.1",
+      "section_number": "3",
+      "section_title": "Check-in and Check-out",
+      "text": "Check-in starts at 14:00. Check-out is by 12:00.",
+      "embed_text": "Check-in and Check-out: Check-in starts at 14:00. Check-out is by 12:00."
+    },
+    {
+      "article": "3.2",
+      "section_number": "3",
+      "section_title": "Check-in and Check-out",
+      "text": "Early check-in before 14:00 is free but depends on availability. If the room is not ready, guests receive their all-inclusive wristband on arrival and can use the pools and restaurants while they wait.",
+      "embed_text": "Check-in and Check-out: Early check-in before 14:00 is free but depends on availability. If the room is not ready, guests receive their all-inclusive wristband on arrival and can use the pools and restaurants while they wait."
+    },
+    {
+      "article": "3.3",
+      "section_number": "3",
+      "section_title": "Check-in and Check-out",
+      "text": "Late check-out until 18:00 costs 40 EUR per room and depends on availability. It must be requested at reception by 10:00 on the departure day.",
+      "embed_text": "Check-in and Check-out: Late check-out until 18:00 costs 40 EUR per room and depends on availability. It must be requested at reception by 10:00 on the departure day."
+    },
+    {
+      "article": "3.4",
+      "section_number": "3",
+      "section_title": "Check-in and Check-out",
+      "text": "Every guest, including children, must show a valid passport or Turkish ID card at check-in.",
+      "embed_text": "Check-in and Check-out: Every guest, including children, must show a valid passport or Turkish ID card at check-in."
+    },
+    {
+      "article": "3.5",
+      "section_number": "3",
+      "section_title": "Check-in and Check-out",
+      "text": "Reception is open 24 hours a day.",
+      "embed_text": "Check-in and Check-out: Reception is open 24 hours a day."
+    },
+    {
+      "article": "4.1",
+      "section_number": "4",
+      "section_title": "Cancellation Policy",
+      "text": "Cancellation rules depend on the arrival date, not on the date the booking was made.",
+      "embed_text": "Cancellation Policy: Cancellation rules depend on the arrival date, not on the date the booking was made."
+    },
+    {
+      "article": "4.2",
+      "section_number": "4",
+      "section_title": "Cancellation Policy",
+      "text": "High season arrivals (1 June to 30 September): cancellation is free up to 21 days before arrival. Cancellations made less than 21 days before arrival are charged 50% of the total stay. A no-show is charged 100% of the total stay.",
+      "embed_text": "Cancellation Policy: High season arrivals (1 June to 30 September): cancellation is free up to 21 days before arrival. Cancellations made less than 21 days before arrival are charged 50% of the total stay. A no-show is charged 100% of the total stay."
+    },
+    {
+      "article": "4.3",
+      "section_number": "4",
+      "section_title": "Cancellation Policy",
+      "text": "Low season arrivals (all other dates): cancellation is free up to 7 days before arrival. Cancellations made less than 7 days before arrival are charged the price of the first night. A no-show is also charged the price of the first night.",
+      "embed_text": "Cancellation Policy: Low season arrivals (all other dates): cancellation is free up to 7 days before arrival. Cancellations made less than 7 days before arrival are charged the price of the first night. A no-show is also charged the price of the first night."
+    },
+    {
+      "article": "4.4",
+      "section_number": "4",
+      "section_title": "Cancellation Policy",
+      "text": "Bookings made at the Non-Refundable rate cannot be cancelled or changed in any season. This rate is 15% cheaper than the flexible rate.",
+      "embed_text": "Cancellation Policy: Bookings made at the Non-Refundable rate cannot be cancelled or changed in any season. This rate is 15% cheaper than the flexible rate."
+    },
+    {
+      "article": "4.5",
+      "section_number": "4",
+      "section_title": "Cancellation Policy",
+      "text": "Bookings made through a travel agency or a booking website follow that company's cancellation rules. Guests should contact the company they booked with.",
+      "embed_text": "Cancellation Policy: Bookings made through a travel agency or a booking website follow that company's cancellation rules. Guests should contact the company they booked with."
+    },
+    {
+      "article": "4.6",
+      "section_number": "4",
+      "section_title": "Cancellation Policy",
+      "text": "To cancel a direct booking, guests email the reservations team with their booking number (see 13.2). Refunds are paid to the original payment method within 10 working days.",
+      "embed_text": "Cancellation Policy: To cancel a direct booking, guests email the reservations team with their booking number (see 13.2). Refunds are paid to the original payment method within 10 working days."
+    },
+    {
+      "article": "5.1",
+      "section_number": "5",
+      "section_title": "Payment Methods",
+      "text": "The hotel accepts Visa, Mastercard and American Express cards, and cash in Turkish lira (TRY), euro (EUR) and US dollars (USD).",
+      "embed_text": "Payment Methods: The hotel accepts Visa, Mastercard and American Express cards, and cash in Turkish lira (TRY), euro (EUR) and US dollars (USD)."
+    },
+    {
+      "article": "5.2",
+      "section_number": "5",
+      "section_title": "Payment Methods",
+      "text": "Direct bookings require a 30% deposit at the time of booking. The remaining balance is paid at check-in.",
+      "embed_text": "Payment Methods: Direct bookings require a 30% deposit at the time of booking. The remaining balance is paid at check-in."
+    },
+    {
+      "article": "5.3",
+      "section_number": "5",
+      "section_title": "Payment Methods",
+      "text": "Extras during the stay, such as à la carte dinners, spa treatments and imported drinks, can be charged to the room and paid at check-out.",
+      "embed_text": "Payment Methods: Extras during the stay, such as à la carte dinners, spa treatments and imported drinks, can be charged to the room and paid at check-out."
+    },
+    {
+      "article": "5.4",
+      "section_number": "5",
+      "section_title": "Payment Methods",
+      "text": "At check-in, the hotel takes a credit card pre-authorisation of 100 EUR per room to cover extras. The amount is released at check-out if it is not used.",
+      "embed_text": "Payment Methods: At check-in, the hotel takes a credit card pre-authorisation of 100 EUR per room to cover extras. The amount is released at check-out if it is not used."
+    },
+    {
+      "article": "5.5",
+      "section_number": "5",
+      "section_title": "Payment Methods",
+      "text": "Bank transfer is accepted only for the deposit, and only if it is made at least 14 days before arrival.",
+      "embed_text": "Payment Methods: Bank transfer is accepted only for the deposit, and only if it is made at least 14 days before arrival."
+    },
+    {
+      "article": "5.6",
+      "section_number": "5",
+      "section_title": "Payment Methods",
+      "text": "Cryptocurrency and cheques are not accepted.",
+      "embed_text": "Payment Methods: Cryptocurrency and cheques are not accepted."
+    },
+    {
+      "article": "6.1",
+      "section_number": "6",
+      "section_title": "Breakfast and Restaurants",
+      "text": "The main restaurant serves buffet meals: breakfast 07:00-10:00, late breakfast 10:00-11:00, lunch 12:30-14:30 and dinner 19:00-21:30.",
+      "embed_text": "Breakfast and Restaurants: The main restaurant serves buffet meals: breakfast 07:00-10:00, late breakfast 10:00-11:00, lunch 12:30-14:30 and dinner 19:00-21:30."
+    },
+    {
+      "article": "6.2",
+      "section_number": "6",
+      "section_title": "Breakfast and Restaurants",
+      "text": "At lunch and dinner the main restaurant has a children's buffet corner with child-friendly dishes. High chairs are available.",
+      "embed_text": "Breakfast and Restaurants: At lunch and dinner the main restaurant has a children's buffet corner with child-friendly dishes. High chairs are available."
+    },
+    {
+      "article": "6.3",
+      "section_number": "6",
+      "section_title": "Breakfast and Restaurants",
+      "text": "The snack bar next to the main pool is open 11:00-17:00. Ice cream for children is served there free of charge between 14:00 and 16:00.",
+      "embed_text": "Breakfast and Restaurants: The snack bar next to the main pool is open 11:00-17:00. Ice cream for children is served there free of charge between 14:00 and 16:00."
+    },
+    {
+      "article": "6.4",
+      "section_number": "6",
+      "section_title": "Breakfast and Restaurants",
+      "text": "The hotel has two à la carte restaurants, one Turkish and one Italian. Both are open 19:00-22:00 and closed on Mondays. A reservation is required and must be made at guest relations by 16:00 on the same day. The price is 25 EUR per adult. Children aged 0-6 eat free and children aged 7-12 pay half price.",
+      "embed_text": "Breakfast and Restaurants: The hotel has two à la carte restaurants, one Turkish and one Italian. Both are open 19:00-22:00 and closed on Mondays. A reservation is required and must be made at guest relations by 16:00 on the same day. The price is 25 EUR per adult. Children aged 0-6 eat free and children aged 7-12 pay half price."
+    },
+    {
+      "article": "6.5",
+      "section_number": "6",
+      "section_title": "Breakfast and Restaurants",
+      "text": "Vegetarian and gluten-free dishes are offered at the buffet every day. Guests with food allergies should inform the restaurant manager on the day of arrival.",
+      "embed_text": "Breakfast and Restaurants: Vegetarian and gluten-free dishes are offered at the buffet every day. Guests with food allergies should inform the restaurant manager on the day of arrival."
+    },
+    {
+      "article": "6.6",
+      "section_number": "6",
+      "section_title": "Breakfast and Restaurants",
+      "text": "Baby food (plain vegetable and fruit purées, warm milk) is available in the main restaurant on request. Infant formula is not provided.",
+      "embed_text": "Breakfast and Restaurants: Baby food (plain vegetable and fruit purées, warm milk) is available in the main restaurant on request. Infant formula is not provided."
+    },
+    {
+      "article": "6.7",
+      "section_number": "6",
+      "section_title": "Breakfast and Restaurants",
+      "text": "Swimwear is not allowed in the main restaurant at dinner. Men are asked to wear long trousers at dinner.",
+      "embed_text": "Breakfast and Restaurants: Swimwear is not allowed in the main restaurant at dinner. Men are asked to wear long trousers at dinner."
+    },
+    {
+      "article": "7.1",
+      "section_number": "7",
+      "section_title": "Pools, Beach and Spa",
+      "text": "The main pool is open 08:00-19:00 and is 1.40 m deep. A lifeguard is on duty 09:00-18:00.",
+      "embed_text": "Pools, Beach and Spa: The main pool is open 08:00-19:00 and is 1.40 m deep. A lifeguard is on duty 09:00-18:00."
+    },
+    {
+      "article": "7.2",
+      "section_number": "7",
+      "section_title": "Pools, Beach and Spa",
+      "text": "The children's pool is open 09:00-18:00 and is 0.40 m deep. It is for children up to 12 years old, and an adult must stay with them at all times.",
+      "embed_text": "Pools, Beach and Spa: The children's pool is open 09:00-18:00 and is 0.40 m deep. It is for children up to 12 years old, and an adult must stay with them at all times."
+    },
+    {
+      "article": "7.3",
+      "section_number": "7",
+      "section_title": "Pools, Beach and Spa",
+      "text": "The waterslides are open 10:00-12:00 and 14:00-17:00. They are for guests at least 120 cm tall.",
+      "embed_text": "Pools, Beach and Spa: The waterslides are open 10:00-12:00 and 14:00-17:00. They are for guests at least 120 cm tall."
+    },
+    {
+      "article": "7.4",
+      "section_number": "7",
+      "section_title": "Pools, Beach and Spa",
+      "text": "The indoor pool is inside the spa and is open 08:00-20:00 all year. It is heated from November to April. Children under 12 may use it only between 10:00 and 12:00 with an adult.",
+      "embed_text": "Pools, Beach and Spa: The indoor pool is inside the spa and is open 08:00-20:00 all year. It is heated from November to April. Children under 12 may use it only between 10:00 and 12:00 with an adult."
+    },
+    {
+      "article": "7.5",
+      "section_number": "7",
+      "section_title": "Pools, Beach and Spa",
+      "text": "The spa (Turkish bath, sauna and steam room) is open 09:00-20:00 for guests aged 16 and over. The Turkish bath, sauna and steam room are free. Massages and treatments are paid extra and must be booked one day in advance at the spa reception.",
+      "embed_text": "Pools, Beach and Spa: The spa (Turkish bath, sauna and steam room) is open 09:00-20:00 for guests aged 16 and over. The Turkish bath, sauna and steam room are free. Massages and treatments are paid extra and must be booked one day in advance at the spa reception."
+    },
+    {
+      "article": "7.6",
+      "section_number": "7",
+      "section_title": "Pools, Beach and Spa",
+      "text": "The fitness centre is open 07:00-21:00 for guests aged 16 and over and is free.",
+      "embed_text": "Pools, Beach and Spa: The fitness centre is open 07:00-21:00 for guests aged 16 and over and is free."
+    },
+    {
+      "article": "7.7",
+      "section_number": "7",
+      "section_title": "Pools, Beach and Spa",
+      "text": "Pool and beach towels are free. They are exchanged at the towel desk, open 08:00-18:00, with a towel card. A lost towel card costs 20 EUR.",
+      "embed_text": "Pools, Beach and Spa: Pool and beach towels are free. They are exchanged at the towel desk, open 08:00-18:00, with a towel card. A lost towel card costs 20 EUR."
+    },
+    {
+      "article": "7.8",
+      "section_number": "7",
+      "section_title": "Pools, Beach and Spa",
+      "text": "The beach bar is open 10:00-18:00. A lifeguard is on duty on the beach 09:00-18:00 from June to September only.",
+      "embed_text": "Pools, Beach and Spa: The beach bar is open 10:00-18:00. A lifeguard is on duty on the beach 09:00-18:00 from June to September only."
+    },
+    {
+      "article": "8.1",
+      "section_number": "8",
+      "section_title": "Airport Transfer",
+      "text": "The nearest airport is Gazipaşa-Alanya Airport (GZP), about 40 km away (around 45 minutes by car). Antalya Airport (AYT) is about 125 km away (around 2 hours by car).",
+      "embed_text": "Airport Transfer: The nearest airport is Gazipaşa-Alanya Airport (GZP), about 40 km away (around 45 minutes by car). Antalya Airport (AYT) is about 125 km away (around 2 hours by car)."
+    },
+    {
+      "article": "8.2",
+      "section_number": "8",
+      "section_title": "Airport Transfer",
+      "text": "Private transfer from or to Gazipaşa-Alanya Airport (GZP): 35 EUR per car one way (up to 4 people with luggage), or 50 EUR per minivan one way (up to 8 people).",
+      "embed_text": "Airport Transfer: Private transfer from or to Gazipaşa-Alanya Airport (GZP): 35 EUR per car one way (up to 4 people with luggage), or 50 EUR per minivan one way (up to 8 people)."
+    },
+    {
+      "article": "8.3",
+      "section_number": "8",
+      "section_title": "Airport Transfer",
+      "text": "Private transfer from or to Antalya Airport (AYT): 90 EUR per car one way (up to 4 people with luggage), or 120 EUR per minivan one way (up to 8 people).",
+      "embed_text": "Airport Transfer: Private transfer from or to Antalya Airport (AYT): 90 EUR per car one way (up to 4 people with luggage), or 120 EUR per minivan one way (up to 8 people)."
+    },
+    {
+      "article": "8.4",
+      "section_number": "8",
+      "section_title": "Airport Transfer",
+      "text": "Child seats in transfer vehicles are free and must be requested when the transfer is booked.",
+      "embed_text": "Airport Transfer: Child seats in transfer vehicles are free and must be requested when the transfer is booked."
+    },
+    {
+      "article": "8.5",
+      "section_number": "8",
+      "section_title": "Airport Transfer",
+      "text": "Transfers must be booked at least 48 hours before arrival by email to the reservations team, with the flight number. The driver tracks the flight and waits up to 60 minutes after landing at no extra charge.",
+      "embed_text": "Airport Transfer: Transfers must be booked at least 48 hours before arrival by email to the reservations team, with the flight number. The driver tracks the flight and waits up to 60 minutes after landing at no extra charge."
+    },
+    {
+      "article": "8.6",
+      "section_number": "8",
+      "section_title": "Airport Transfer",
+      "text": "The hotel does not arrange airport taxis. Guests who take a taxi pay the driver directly.",
+      "embed_text": "Airport Transfer: The hotel does not arrange airport taxis. Guests who take a taxi pay the driver directly."
+    },
+    {
+      "article": "9.1",
+      "section_number": "9",
+      "section_title": "Pets",
+      "text": "Pets (dogs, cats or any other animals) are not allowed in the rooms or anywhere else in the hotel.",
+      "embed_text": "Pets: Pets (dogs, cats or any other animals) are not allowed in the rooms or anywhere else in the hotel."
+    },
+    {
+      "article": "9.2",
+      "section_number": "9",
+      "section_title": "Pets",
+      "text": "The only exception is assistance dogs (for example guide dogs) with official documents. The hotel must be informed at least 7 days before arrival.",
+      "embed_text": "Pets: The only exception is assistance dogs (for example guide dogs) with official documents. The hotel must be informed at least 7 days before arrival."
+    },
+    {
+      "article": "10.1",
+      "section_number": "10",
+      "section_title": "Children Policy",
+      "text": "Children aged 0-2 stay free of charge.",
+      "embed_text": "Children Policy: Children aged 0-2 stay free of charge."
+    },
+    {
+      "article": "10.2",
+      "section_number": "10",
+      "section_title": "Children Policy",
+      "text": "One child aged 3-6 stays free when sharing a room with two paying adults. A second child aged 3-6 in the same room pays 50% of the adult price.",
+      "embed_text": "Children Policy: One child aged 3-6 stays free when sharing a room with two paying adults. A second child aged 3-6 in the same room pays 50% of the adult price."
+    },
+    {
+      "article": "10.3",
+      "section_number": "10",
+      "section_title": "Children Policy",
+      "text": "Children aged 7-12 pay 50% of the adult price.",
+      "embed_text": "Children Policy: Children aged 7-12 pay 50% of the adult price."
+    },
+    {
+      "article": "10.4",
+      "section_number": "10",
+      "section_title": "Children Policy",
+      "text": "Guests aged 13 and over pay the full adult price.",
+      "embed_text": "Children Policy: Guests aged 13 and over pay the full adult price."
+    },
+    {
+      "article": "10.5",
+      "section_number": "10",
+      "section_title": "Children Policy",
+      "text": "Children's ages are counted on the arrival date.",
+      "embed_text": "Children Policy: Children's ages are counted on the arrival date."
+    },
+    {
+      "article": "10.6",
+      "section_number": "10",
+      "section_title": "Children Policy",
+      "text": "Babysitting is available 19:00-24:00 for children aged 1 and over. It costs 15 EUR per hour and must be booked at guest relations at least 24 hours in advance.",
+      "embed_text": "Children Policy: Babysitting is available 19:00-24:00 for children aged 1 and over. It costs 15 EUR per hour and must be booked at guest relations at least 24 hours in advance."
+    },
+    {
+      "article": "11.1",
+      "section_number": "11",
+      "section_title": "Kids' Club and Family Activities",
+      "text": "The Mini Club is for children aged 4-12. It is open 10:00-12:30 and 14:30-17:30 and is free. Children under 4 can join only with a parent.",
+      "embed_text": "Kids' Club and Family Activities: The Mini Club is for children aged 4-12. It is open 10:00-12:30 and 14:30-17:30 and is free. Children under 4 can join only with a parent."
+    },
+    {
+      "article": "11.2",
+      "section_number": "11",
+      "section_title": "Kids' Club and Family Activities",
+      "text": "The Mini Disco takes place every evening 20:30-21:00 at the amphitheatre and is open to children of all ages.",
+      "embed_text": "Kids' Club and Family Activities: The Mini Disco takes place every evening 20:30-21:00 at the amphitheatre and is open to children of all ages."
+    },
+    {
+      "article": "11.3",
+      "section_number": "11",
+      "section_title": "Kids' Club and Family Activities",
+      "text": "The Teen Club is for guests aged 13-17. It runs in high season only, 15:00-18:00, with a games room and beach volleyball.",
+      "embed_text": "Kids' Club and Family Activities: The Teen Club is for guests aged 13-17. It runs in high season only, 15:00-18:00, with a games room and beach volleyball."
+    },
+    {
+      "article": "11.4",
+      "section_number": "11",
+      "section_title": "Kids' Club and Family Activities",
+      "text": "The playground is open 08:00-20:00. It is not supervised, so parents must stay with their children.",
+      "embed_text": "Kids' Club and Family Activities: The playground is open 08:00-20:00. It is not supervised, so parents must stay with their children."
+    },
+    {
+      "article": "11.5",
+      "section_number": "11",
+      "section_title": "Kids' Club and Family Activities",
+      "text": "The evening show for the whole family starts at 21:30 at the amphitheatre.",
+      "embed_text": "Kids' Club and Family Activities: The evening show for the whole family starts at 21:30 at the amphitheatre."
+    },
+    {
+      "article": "12.1",
+      "section_number": "12",
+      "section_title": "Accessibility",
+      "text": "The hotel has 6 accessible Standard Rooms with a roll-in shower, grab bars and wider doors. They must be requested when booking.",
+      "embed_text": "Accessibility: The hotel has 6 accessible Standard Rooms with a roll-in shower, grab bars and wider doors. They must be requested when booking."
+    },
+    {
+      "article": "12.2",
+      "section_number": "12",
+      "section_title": "Accessibility",
+      "text": "The lobby, the main restaurant and the main pool area have step-free access with ramps. The main pool has a pool hoist.",
+      "embed_text": "Accessibility: The lobby, the main restaurant and the main pool area have step-free access with ramps. The main pool has a pool hoist."
+    },
+    {
+      "article": "12.3",
+      "section_number": "12",
+      "section_title": "Accessibility",
+      "text": "A wooden walkway leads to the beach. One beach wheelchair is available free of charge and can be reserved at guest relations.",
+      "embed_text": "Accessibility: A wooden walkway leads to the beach. One beach wheelchair is available free of charge and can be reserved at guest relations."
+    },
+    {
+      "article": "12.4",
+      "section_number": "12",
+      "section_title": "Accessibility",
+      "text": "All hotel buildings have lifts. The à la carte restaurants are on the first floor and can be reached by lift.",
+      "embed_text": "Accessibility: All hotel buildings have lifts. The à la carte restaurants are on the first floor and can be reached by lift."
+    },
+    {
+      "article": "13.1",
+      "section_number": "13",
+      "section_title": "Contact",
+      "text": "Reception (24 hours): +90 242 000 00 00.",
+      "embed_text": "Contact: Reception (24 hours): +90 242 000 00 00."
+    },
+    {
+      "article": "13.2",
+      "section_number": "13",
+      "section_title": "Contact",
+      "text": "Reservations team: reservations@anyhotel.example, Monday to Saturday 09:00-18:00.",
+      "embed_text": "Contact: Reservations team: reservations@anyhotel.example, Monday to Saturday 09:00-18:00."
+    },
+    {
+      "article": "13.3",
+      "section_number": "13",
+      "section_title": "Contact",
+      "text": "Guest relations is in the lobby, open 09:00-21:00. From the room phone, dial 9.",
+      "embed_text": "Contact: Guest relations is in the lobby, open 09:00-21:00. From the room phone, dial 9."
+    },
+    {
+      "article": "13.4",
+      "section_number": "13",
+      "section_title": "Contact",
+      "text": "In an emergency, dial 0 from the room phone to reach reception. A doctor is on call 24 hours a day; doctor visits are paid.",
+      "embed_text": "Contact: In an emergency, dial 0 from the room phone to reach reception. A doctor is on call 24 hours a day; doctor visits are paid."
+    }
+  ]
+}

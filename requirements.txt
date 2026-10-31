@@ -1,0 +1,6 @@
+# Exact versions: an unpinned install on the server is the most common
+# reason an app works locally and breaks after deploy.
+openai==3.42.0
+numpy==2.5.4
+python-dotenv==1.2.4
+streamlit==1.66.1
