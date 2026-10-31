@@ -80,7 +80,7 @@ because Streamlit Community Cloud deploys from a GitHub repo.
 1. Record a 20-30 second GIF (answer + source, German question, refusal) and save it as `docs/demo.gif`.
 2. Run `python make_upload_folder.py` and upload that folder's contents to a new public GitHub repo.
 3. On share.streamlit.io: New app -> that repo -> `app.py`. In Advanced settings choose Python 3.12
-   and paste `.streamlit/secrets.example.toml` into Secrets with the real key and repo URL.
+   and paste `.streamlit/secrets.example.toml` into Secrets with the real key.
 4. Pick a custom subdomain (e.g. `any-hotel-assistant`).
 5. Open the link in a private window and on a phone; repeat the Phase 5 button test.
 6. Replace `DEMO_URL` in README.md with the live link and upload README.md again.

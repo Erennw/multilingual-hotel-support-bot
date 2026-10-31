@@ -48,9 +48,9 @@ OPENAI_API_KEY = _read_secret("OPENAI_API_KEY")
 CHAT_MODEL = _read_secret("OPENAI_CHAT_MODEL") or "gpt-6-luna"
 EMBEDDING_MODEL = _read_secret("OPENAI_EMBEDDING_MODEL") or "text-embedding-3-small"
 
-# Link shown in the app's sidebar. Set REPO_URL in .env or Streamlit
-# secrets once the GitHub repo exists; the link is hidden until then.
-REPO_URL = _read_secret("REPO_URL")
+# Link shown in the app's sidebar. Public, so it lives in code rather
+# than in secrets, where a leftover placeholder would break the button.
+REPO_URL = "https://github.com/Erennw/multilingual-hotel-support-bot"
 
 
 def index_dir(model_name: str = EMBEDDING_MODEL) -> Path:
